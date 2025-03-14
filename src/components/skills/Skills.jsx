@@ -222,7 +222,7 @@ function Skills() {
               <FontAwesomeIcon
                 icon={faLinux}
                 size="3x"
-                className="text-dark mb-2 icon"
+                className="text-dark mb-2 icon bg-white border rounded-3"
               />
               <p>Linux</p>
             </div>
