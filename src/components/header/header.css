@@ -1,0 +1,10 @@
+.hello{
+    font-size: 50px;
+    text-shadow: 2px 2px 2px #000000;
+    color: #FF0000;
+    animation: colorChange 5s infinite;
+    animation-timing-function: ease-in-out;
+    animation-delay: 2s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+}

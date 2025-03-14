@@ -1,0 +1,19 @@
+.card {
+  background-color: #242424;
+  border-color: #242424;
+  border-radius: 10px;
+  padding: 20px;
+  margin: 10px;
+  cursor: pointer;
+  color: #ffffff !important;
+}
+.card:hover {
+  transform: translateY(-5px);
+  transition: all ease 0.3s;
+}
+.card h6 {
+  color: azure !important;
+}
+.card small {
+    color: #cccccc !important;
+}
